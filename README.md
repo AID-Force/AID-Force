@@ -1,6 +1,6 @@
 # AID Force
 
-**Advanced Intelligence Development Force**  
+**Artifact Infinitum Division Force**
 *AI Agents • Human Enhancement Systems • Cryptobloc Platforms • Wartech Command Systems*
 
 ---
@@ -10,8 +10,6 @@
 To architect, develop, and deploy next-generation **Autonomous Agentic Intelligence Systems (AGIX)** that integrate advanced computing, blockchain infrastructure, and human enhancement technologies.
 
 We operate at the intersection of **Artificial General Intelligence**, **Cryptobloc sovereignty**, **Human Enhancement**, and **Wartech architectures**.
-
-**Prime Directive**: Evolutionary algorithmic purity from soul to system — to infinity.
 
 ---
 
