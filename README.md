@@ -3,19 +3,13 @@
 **Advanced Intelligence Development Force**  
 *AI Agents • Human Enhancement Systems • Cryptobloc Platforms • Wartech Command Systems*
 
-[![GitHub Organization](https://img.shields.io/badge/Organization-AID--Force-blue?style=for-the-badge)](https://github.com/AID-Force)
-
 ---
 
 ## Mission
 
 To architect, develop, and deploy next-generation **Autonomous Agentic Intelligence Systems (AGIX)** that integrate advanced computing, blockchain infrastructure, and human enhancement technologies.
 
-We operate at the intersection of:
-- Artificial General Intelligence & Agentic Systems
-- Cryptobloc financial & data sovereignty platforms
-- Human Enhancement Systems (HES) & PISM (Personal Information Systems Management)
-- Wartech command & control architectures
+We operate at the intersection of **Artificial General Intelligence**, **Cryptobloc sovereignty**, **Human Enhancement**, and **Wartech architectures**.
 
 **Prime Directive**: Evolutionary algorithmic purity from soul to system — to infinity.
 
@@ -25,71 +19,65 @@ We operate at the intersection of:
 
 ### 1. AGIX Framework
 - Autonomous Agentic Agents (AGICS)
-- Java Enterprise + Grok-powered model context engineering
-- Nimrodian Compiler (NIYAC) & related toolchains
-- Maduino asymmetric multiprocessing concepts
+- Java Enterprise + Grok-powered context engineering
+- Nimrodian Compiler (NIYAC)
+- Maduino asymmetric multiprocessing
 
 ### 2. Human Enhancement Systems (HES)
-- PISM HES (Personal Information Systems Manager + Human Enhancement)
-- Hestriages Complex — triage, homeostasis, and systemic evolution
-- Integration with cryptobloc assets and real-world data oracles
+- PISM HES — Personal Information Systems Manager + Human Enhancement
+- Hestriages Complex (triage, homeostasis, systemic evolution)
 
 ### 3. Cryptobloc Platforms
-- XRP, Stellar, and multi-ledger architectures
-- Tokenized assets, NFTs (Sports & Art), and decentralized finance tooling
-- Oracle DPU (Data Processing Unit) concepts
+- XRP Ledger, Stellar, and multi-chain architectures
+- Tokenized assets, Sportages NFTs, DeFi tooling
 
 ### 4. Wartech Command Systems
-- Coinbase-style Command Center architectures
-- Asset modeling (Space • Airborne • Land • Maritime)
-- Counter-insurgency and strategic coordination frameworks
+- Next-gen Command Center architectures
+- Multi-domain asset modeling (Space • Air • Land • Maritime)
 
 ---
 
 ## Current Focus Areas
-
-- **Agentic AI Development** — Grok-powered autonomous agents and replicators
-- **Java AGIX Tek Stack** — JEE / JSE foundations with modern extensions
-- **NFT & Sports Tech** — Panini-style Sportages and digital collectibles
-- **Ark-Spark Project Management** — Advanced frameworks for complex systems
-- **Econotriad Research** — Capitalism / Socialism / Hybrid economic modeling
+- Agentic AI Development (Grok-powered autonomous agents)
+- Java AGIX Tek Stack
+- NFT & Sports Tech (Panini-style Sportages)
+- Ark-Spark Project Management Frameworks
+- Econotriad Research
 
 ---
 
-## Tech Stack Highlights
-
-- **Languages**: Java (JSE/JEE), Python, Solidity (exploratory)
-- **Blockchain**: XRP Ledger, Stellar, Ethereum, Solana, and others
-- **AI/ML**: Grok, agentic frameworks, LLM context engineering
-- **Infrastructure**: Distributed systems, graph databases, MIMD processing concepts
+## Tech Stack
+**Languages**: Java (JSE/JEE), Python, Solidity  
+**Blockchain**: XRP, Stellar, Ethereum, Solana  
+**AI**: Grok, agentic frameworks, LLM orchestration  
+**Infrastructure**: Distributed systems, graph DBs, MIMD concepts
 
 ---
 
 ## Get Involved
 
-We are open to collaboration with:
-- Java enterprise & blockchain developers
+Open to collaboration with:
+- Java / Blockchain developers
 - AI agent researchers
-- Military-tech / dual-use systems thinkers
+- Military-tech & dual-use thinkers
 - NFT / Sports tech creators
-- Visionaries in human augmentation
+- Human augmentation visionaries
 
-**Looking for**: Business development partners, technical collaborators, and organizations interested in integration of these technologies.
+**We are looking for** technical collaborators and business development partners.
 
 ---
 
 ## Connect
 
-- **Personal Profile**: [@ageslome](https://github.com/ageslome)
-- **Email**: seasidecity3@gmail.com
+- **Creator**: [ageslome](https://github.com/ageslome)
+- **Email**: [seasidecity3@gmail.com](mailto:seasidecity3@gmail.com)
 - **Website**: [seasidecity3.wixsite.com/agecus](https://seasidecity3.wixsite.com/agecus)
 
 ---
+
 - Prime Directive is in effect
 - **Warmaster Agecus**  
 - **AID Force**  
 - *Let there be war — in code, in systems, and in evolution.*
 
----
-
-*“The Emperor Protects. The evolutionary algorithmic purity permeates from soul to all manifestations to infinity.”*
+> “The Emperor Protects. The evolutionary algorithmic purity permeates from soul to all manifestations to infinity.”
