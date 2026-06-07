@@ -85,10 +85,10 @@ We are open to collaboration with:
 - **Website**: [seasidecity3.wixsite.com/agecus](https://seasidecity3.wixsite.com/agecus)
 
 ---
-**Prime Directive is in effect**
-**Warmaster Agecus**  
-**AID Force**  
-*Let there be war — in code, in systems, and in evolution.*
+- Prime Directive is in effect
+- **Warmaster Agecus**  
+- **AID Force**  
+- *Let there be war — in code, in systems, and in evolution.*
 
 ---
 
