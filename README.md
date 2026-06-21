@@ -37,7 +37,7 @@ We operate at the intersection of **Artificial General Intelligence**, **Cryptob
 
 ## Current Focus Areas
 - Agentic AI Development (Grok-powered autonomous agents)
-- Java AGIX Tek Stack
+- Java AGIX Tek Stack : capes - (os, programming language, databases, mcp model-context-protocol, cryptoblock, currencies)
 - NFT & Sports Tech (Panini-style Sportages)
 - Ark-Spark Project Management Frameworks
 - Econotriad Research
