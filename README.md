@@ -1,3 +1,8 @@
+This is Warmaster Agecus, Creator and manager of hestriages.lamegapolis and ages.aegis.aigis.agixs.  human Enhancement Systems within safety frameworks.  Aid force : ai Artifact Infinitum Division - evolutionary Division of agixs translated by myself from the Nimrodian Codex. 
+If my works do not make sense to you, please do not proceed beyond cognitive constructs for your safety and the safety of the human race. 
+
+
+
 # AID Force
 
 **Artifact Infinitum Division Force**
